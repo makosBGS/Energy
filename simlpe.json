@@ -1,0 +1,1566 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "2931601067846308745",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:31:00-08:00",
+      "updated": "2021-02-15T22:59:09-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/renewable-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2931601067846308745",
+      "title": "Renewable energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2931601067846308745/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNDU4NzQ5ODUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5737207514102868329",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:26:00-08:00",
+      "updated": "2021-02-11T04:26:08-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/muzzle-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5737207514102868329",
+      "title": "Muzzle energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5737207514102868329/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQ2MzY4NjE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1935298372376102475",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:23:00-08:00",
+      "updated": "2021-02-11T04:23:50-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/kinetic-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1935298372376102475",
+      "title": "Kinetic energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1935298372376102475/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQ2MjMwOTM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2026511032059387221",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:19:00-08:00",
+      "updated": "2021-02-11T04:19:17-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/work-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2026511032059387221",
+      "title": "Work (physics)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2026511032059387221/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQ1OTU3MjE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8629992078715990973",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:12:00-08:00",
+      "updated": "2021-02-15T22:59:39-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/mechanical-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8629992078715990973",
+      "title": "Mechanical energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8629992078715990973/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNDU4Nzc5NzE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7984875679217516637",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T04:00:00-08:00",
+      "updated": "2021-02-11T04:00:27-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/surface-tension.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7984875679217516637",
+      "title": "Surface tension",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7984875679217516637/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQ0ODI3ODA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6275435296743763971",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T03:48:00-08:00",
+      "updated": "2021-02-11T03:48:10-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/potential-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6275435296743763971",
+      "title": "Potential energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6275435296743763971/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQ0MDkwMDM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9180185152107075498",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T03:42:00-08:00",
+      "updated": "2021-02-11T03:42:34-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/dark-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9180185152107075498",
+      "title": "Dark energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9180185152107075498/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQzNzU0MjQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3304545461744614114",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T03:00:00-08:00",
+      "updated": "2021-02-11T03:00:46-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/equipartition-theorem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3304545461744614114",
+      "title": "Equipartition theorem",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3304545461744614114/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQxMjQ2NjQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4178338591842897955",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:52:00-08:00",
+      "updated": "2021-02-11T02:52:35-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/massenergy-equivalence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4178338591842897955",
+      "title": "Mass–energy equivalence",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4178338591842897955/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQwNzU1ODgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5950402370805027637",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:46:00-08:00",
+      "updated": "2021-02-11T02:46:47-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/energy-development.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5950402370805027637",
+      "title": "Energy development",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5950402370805027637/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDQwNDA3MzMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1028102410593091483",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:29:00-08:00",
+      "updated": "2021-02-11T02:29:42-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/activation-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1028102410593091483",
+      "title": "Activation energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1028102410593091483/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM5MzgyMjM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5531264068572415612",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:26:00-08:00",
+      "updated": "2021-02-11T02:26:09-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/wave-power.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5531264068572415612",
+      "title": "Wave power",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5531264068572415612/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM5MTY5NjI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2706566980442724764",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:21:00-08:00",
+      "updated": "2021-02-11T02:21:17-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/gibbs-free-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2706566980442724764",
+      "title": "Gibbs free energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2706566980442724764/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM4ODc3MTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7751924762236812672",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:15:00-08:00",
+      "updated": "2021-02-11T02:15:52-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/efficient-energy-use.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7751924762236812672",
+      "title": "Efficient energy use",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7751924762236812672/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM4NTUyNzc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5680133077058601405",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:09:00-08:00",
+      "updated": "2021-02-11T02:09:39-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/kilowatt-hour.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5680133077058601405",
+      "title": "Kilowatt hour",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5680133077058601405/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM4MTc5Mjg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "609186307824831904",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T02:01:00-08:00",
+      "updated": "2021-02-11T02:01:36-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/tnt-equivalent.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/609186307824831904",
+      "title": "TNT equivalent",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/609186307824831904/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM3Njk2MTI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4157212409163472614",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T01:28:00-08:00",
+      "updated": "2021-02-11T01:28:06-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/power-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4157212409163472614",
+      "title": "Power (physics)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4157212409163472614/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM1Njg2NDEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1213164982810542415",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-11T01:25:00-08:00",
+      "updated": "2021-02-11T01:25:00-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/power-factor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1213164982810542415",
+      "title": "Power factor",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1213164982810542415/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDM1NTAwMjg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7252696822941454833",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:25:00-08:00",
+      "updated": "2021-02-10T23:25:00-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/luminosity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7252696822941454833",
+      "title": "Luminosity",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7252696822941454833/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI4MzAwMTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4401813805978161203",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:22:00-08:00",
+      "updated": "2021-02-10T23:22:06-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/heat.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4401813805978161203",
+      "title": "Heat",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4401813805978161203/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI4MTI2NDY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7736978353242462395",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:16:00-08:00",
+      "updated": "2021-02-10T23:16:46-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/joule-heating.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7736978353242462395",
+      "title": "Joule heating",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/7736978353242462395/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI3ODA2NDc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3050279399419068854",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:13:00-08:00",
+      "updated": "2021-02-10T23:13:28-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/thermal-expansion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3050279399419068854",
+      "title": "Thermal expansion",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3050279399419068854/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI3NjA4NjE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5308410333304415421",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:09:00-08:00",
+      "updated": "2021-02-10T23:09:24-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/internal-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5308410333304415421",
+      "title": "Internal energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5308410333304415421/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI3MzY0NjA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4557468840476022885",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:04:00-08:00",
+      "updated": "2021-02-10T23:04:46-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/gravitational-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4557468840476022885",
+      "title": "Gravitational energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4557468840476022885/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI3MDg2Mzk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "439414322193743479",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T23:02:00-08:00",
+      "updated": "2021-02-10T23:02:17-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/vis-viva.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/439414322193743479",
+      "title": "Vis viva",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/439414322193743479/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI2OTM3Nzg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8455440635773974401",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T22:44:00-08:00",
+      "updated": "2021-02-10T22:44:35-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/conservation-of-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8455440635773974401",
+      "title": "Conservation of energy",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8455440635773974401/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI1ODc1Mzc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2943162711689743628",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T22:39:00-08:00",
+      "updated": "2021-02-10T22:39:00-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/sound-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2943162711689743628",
+      "title": "Sound energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2943162711689743628/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDI1NTQwMjc2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "777519333823085291",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T20:03:00-08:00",
+      "updated": "2021-02-10T20:03:55-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/zero-point-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/777519333823085291",
+      "title": "Zero point energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/777519333823085291/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDE2MjM1MTA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8574764220487329151",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:29:00-08:00",
+      "updated": "2021-02-10T19:29:04-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/planck-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8574764220487329151",
+      "title": "Planck energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8574764220487329151/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDE0MTQ0Mjg0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5493630977128046173",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:21:00-08:00",
+      "updated": "2021-02-10T19:21:41-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/energy-density.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5493630977128046173",
+      "title": "Energy density",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5493630977128046173/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEzNzAxMzYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2435860375025587282",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:18:00-08:00",
+      "updated": "2021-02-10T19:18:18-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/threshold-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2435860375025587282",
+      "title": "Threshold energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2435860375025587282/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEzNDk4ODQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4506802053635503178",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:07:00-08:00",
+      "updated": "2021-02-10T19:07:52-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/potential-well.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4506802053635503178",
+      "title": "Potential well",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4506802053635503178/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEyODcyMTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1889340795377286877",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:05:00-08:00",
+      "updated": "2021-02-12T04:22:33-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/energy-flux.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1889340795377286877",
+      "title": "Energy flux",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1889340795377286877/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNTUzNTA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6609015362370758431",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T19:01:00-08:00",
+      "updated": "2021-02-10T19:01:55-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/resource-efficiency.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6609015362370758431",
+      "title": "Resource efficiency",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6609015362370758431/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEyNTE1NDYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5535139503064558704",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:58:00-08:00",
+      "updated": "2021-02-10T18:58:55-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/thermodynamic-free-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5535139503064558704",
+      "title": "Thermodynamic free energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5535139503064558704/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEyMzM1MjI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2074794689829698216",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:55:00-08:00",
+      "updated": "2021-02-10T18:55:20-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/helmholtz-free-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2074794689829698216",
+      "title": "Helmholtz free energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2074794689829698216/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEyMTIwNTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3640917816664303563",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:51:00-08:00",
+      "updated": "2021-02-12T04:22:55-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/electrical-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3640917816664303563",
+      "title": "Electrical energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3640917816664303563/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNTc1NTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9121949164872121959",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:48:00-08:00",
+      "updated": "2021-02-12T04:23:15-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/enthalpy-of-atomization.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9121949164872121959",
+      "title": "Enthalpy of atomization",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9121949164872121959/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNTk1MDkyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1420566398813277497",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:45:00-08:00",
+      "updated": "2021-02-10T18:45:39-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/rotational-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1420566398813277497",
+      "title": "Rotational energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1420566398813277497/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDExNTM5MjEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1991188714677610795",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:41:00-08:00",
+      "updated": "2021-02-10T18:41:08-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/ionization-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1991188714677610795",
+      "title": "Ionization energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1991188714677610795/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDExMjY4MTYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6427701235646006806",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:36:00-08:00",
+      "updated": "2021-02-12T04:23:51-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/marine-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6427701235646006806",
+      "title": "Marine energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6427701235646006806/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNjMxMTg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8405002765355979752",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:33:00-08:00",
+      "updated": "2021-02-12T04:24:26-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/bond-dissociation-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8405002765355979752",
+      "title": "Bond dissociation energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/8405002765355979752/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNjY2NTc2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "895333646536209225",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:28:00-08:00",
+      "updated": "2021-02-12T04:24:44-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/binding-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/895333646536209225",
+      "title": "Binding energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/895333646536209225/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNjg0NTkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5484528088217731368",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:23:00-08:00",
+      "updated": "2021-02-10T18:23:46-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/electron-affinity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5484528088217731368",
+      "title": "Electron affinity",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5484528088217731368/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDEwMjI2NDc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3849884514113694588",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:18:00-08:00",
+      "updated": "2021-02-10T18:18:27-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/fermi-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3849884514113694588",
+      "title": "Fermi energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3849884514113694588/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA5OTA3OTQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1657283327664533043",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:10:00-08:00",
+      "updated": "2021-02-10T18:10:08-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/nuclear-binding-energy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1657283327664533043",
+      "title": "Nuclear binding energy",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/1657283327664533043/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA5NDA4MjAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9073028067016114792",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T18:05:00-08:00",
+      "updated": "2021-02-10T18:05:40-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/energy-returnedon-energy-invested.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9073028067016114792",
+      "title": "Energy returned.on energy invested",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/9073028067016114792/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA5MTQwOTI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3136211284088872889",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T17:58:00-08:00",
+      "updated": "2021-02-12T04:25:35-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/british-thermal-unit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3136211284088872889",
+      "title": "British thermal unit",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3136211284088872889/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNzM1NzAwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3868182882079289267",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T17:51:00-08:00",
+      "updated": "2021-02-10T17:51:53-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/joule.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3868182882079289267",
+      "title": "Joule",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3868182882079289267/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA4MzEzNzkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "301497725493513010",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:54:00-08:00",
+      "updated": "2021-02-10T16:54:37-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/calorie.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/301497725493513010",
+      "title": "Calorie",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/301497725493513010/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA0ODc3MTg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3261522262479607988",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:52:00-08:00",
+      "updated": "2021-02-12T04:26:06-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/therm.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3261522262479607988",
+      "title": "Therm",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3261522262479607988/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNzY2MjA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3423085005171636292",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:50:00-08:00",
+      "updated": "2021-02-12T04:26:29-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/barrel-of-oil-equivalent.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3423085005171636292",
+      "title": "Barrel of oil equivalent",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3423085005171636292/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyNzg5MzQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3668280240987145232",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:48:00-08:00",
+      "updated": "2021-02-10T16:48:24-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/electronvolt.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3668280240987145232",
+      "title": "Electronvolt",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/3668280240987145232/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA0NTA0NDI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4127186293160366324",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:46:00-08:00",
+      "updated": "2021-02-10T16:46:04-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/hartree.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4127186293160366324",
+      "title": "Hartree",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4127186293160366324/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA0MzY0MDIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6983978775951322612",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:44:00-08:00",
+      "updated": "2021-02-12T04:27:00-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/erg.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6983978775951322612",
+      "title": "Erg",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/6983978775951322612/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyODIwNTU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2185857690743531294",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:42:00-08:00",
+      "updated": "2021-02-12T04:27:17-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/foe-unit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2185857690743531294",
+      "title": "Foe (unit)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/2185857690743531294/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMTMyODM3MTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4558314236082279002",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:40:00-08:00",
+      "updated": "2021-02-10T16:40:30-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/spectral-density.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4558314236082279002",
+      "title": "Spectral density",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/4558314236082279002/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDA0MDMwMDIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "246291204832785402",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:36:00-08:00",
+      "updated": "2021-02-10T16:36:19-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/audio-power.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/246291204832785402",
+      "title": "Audio power",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/246291204832785402/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDAzNzc5MTg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5561163542975258221",
+      "blog": {
+        "id": "7948776549884299718"
+      },
+      "published": "2021-02-10T16:32:00-08:00",
+      "updated": "2021-02-10T16:32:41-08:00",
+      "url": "http://energyeen.blogspot.com/2021/02/latent-heat.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5561163542975258221",
+      "title": "Latent heat",
+      "content": "",
+      "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7948776549884299718/posts/5561163542975258221/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzMDAzNTYxMDU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wMi0xNlQwNjo1OTozOS43MTRa\""
+}
